@@ -3,6 +3,7 @@ name = "prevent_sleep"
 version = "0.1.1"
 edition = "2021"
 authors = ["Stefano Probst <me@stefano-probst.dev>"]
+license = "MIT"
 
 [dependencies]
 ctrlc = "3.4.5"
